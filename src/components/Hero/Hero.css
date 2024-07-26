@@ -1,0 +1,26 @@
+.hero{
+    /* padding-top: 80px; */
+    background-color: #1b1b1b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    height: 70vh;
+}
+.hero .logo {
+    font-size: 25px;
+    color: #FFDE4D;
+}
+.hero .hero_text{
+    width: 50%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    line-height: 40px;
+}
+.linksicon svg{
+    font-size: 35px;
+    color: #FFDE4D;
+    cursor: pointer;
+}
